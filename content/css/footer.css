@@ -1,0 +1,28 @@
+.main-footer {
+	background-color: #191d23;
+	width: 101%;
+	padding-bottom: 150px;
+    align-content: center;
+    float: none;
+}
+
+.primary-footer {
+	padding-top: 21px;
+	padding-bottom: 4px;
+}
+
+/*copyright*/
+
+.copyright > span {
+	color: #C0C0C0;
+	font-size: 15px;
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	margin-left: 23px;
+}
+.copyright > span>a{
+	color: #798390;
+	}
+.copyright > span>a:hover {
+	color:#f9c31e;
+}
